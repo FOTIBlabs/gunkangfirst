@@ -26,6 +26,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gunkangfirst.com/hfood-guide.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gunkangfirst.com/hfood-sales-license.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gunkangfirst.com/hfood-disposal.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gunkangfirst.com/daiso-hfood.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gunkangfirst.com/about.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
