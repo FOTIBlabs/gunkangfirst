@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://gunkangfirst.com/sitemap.xml
-#DaumWebMasterTool:8acc389155100819e73ea6266cfdf7a6066c34e6ccb4e0974512941cd4ad0dd7:FreFgz7Szjm9AAoTfEznAQ==
+#DaumWebMasterTool:8b391e50f501623f874cda91ef6b3416c7a4bb0fc87a1699c0dfc6cb56ec078d:FreFgz7Szjm9AAoTfEznAQ==
